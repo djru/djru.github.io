@@ -14,8 +14,7 @@ export default function App() {
         I work at Trading Technologies, providing tools and infrastructure to
         traders and investment firms. At my job, I mainly work in{" "}
         <span className="black">Python</span> and{" "}
-        <span className="black">React</span>. On the side, I've picked up Go and
-        Node as well!
+        <span className="black">Javscript/React</span>. On the side, I've picked up Go and Node/Express as well!
       </p>
       <p>
         In my free time I like to watch basketball, read, and ride my bike (at
