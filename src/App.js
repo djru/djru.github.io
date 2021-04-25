@@ -11,9 +11,10 @@ export default function App() {
       <h1>Dan Ruswick</h1>
       <h2>👋🏼 Hi! I'm Dan, a software engineer from Chicago!</h2>
       <p>
-        I work at Trading Technologies, providing tools and infrastructure to
-        traders and investment firms. I mainly work in{" "}
-        <span className="black">Python</span> and{" "}
+        I work at{" "}
+        <a href="https://tradingtechnologies.com">Trading Technologies</a>,
+        providing tools and infrastructure to traders and investment firms. I
+        mainly work in <span className="black">Python</span> and{" "}
         <span className="black">Javscript/React</span> doing a mixture of
         automation and full stack develoment.
       </p>
