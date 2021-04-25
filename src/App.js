@@ -12,9 +12,10 @@ export default function App() {
       <h2>👋🏼 Hi! I'm Dan, a software engineer from Chicago!</h2>
       <p>
         I work at Trading Technologies, providing tools and infrastructure to
-        traders and investment firms. At my job, I mainly work in{" "}
+        traders and investment firms. I mainly work in{" "}
         <span className="black">Python</span> and{" "}
-        <span className="black">Javscript/React</span>. On the side, I've picked up Go and Node/Express as well!
+        <span className="black">Javscript/React</span> doing a mixture of
+        automation and full stack develoment.
       </p>
       <p>
         In my free time I like to watch basketball, read, and ride my bike (at
